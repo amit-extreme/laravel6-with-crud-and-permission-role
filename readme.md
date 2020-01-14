@@ -1,9 +1,5 @@
-## user roles and permissions (acl) using spatie tutorial laravel 5.8
-
-![Acl in Laravel 5.8](https://Amit Tyagi/upload/acl-in-laravel-5-8.png)
-![Acl in Laravel 5.8](https://Amit Tyagi/upload/laravel-5-8-acl.png)
-![Acl in Laravel 5.8](https://Amit Tyagi/upload/laravel-5-8-acl-2.png)
-![Acl in Laravel 5.8](https://Amit Tyagi/upload/laravel-5-8-acl-3.png)
-
-You can follow step by step tutorial for user roles and permissions (acl) using spatie tutorial laravel 5.8 Here: https://Amit Tyagi/post/laravel-58-user-roles-and-permissions-tutorialexample.html# laravel6-with-crud-and-permission-role
+## Amit Tyagi
+laravel6-with-crud-and-permission-role
+1. download source code and add you database name in env file and then run php artisan migrate command.
+2. run php artisan db:seed for dummy data
 # laravel6-with-crud-and-permission-role
